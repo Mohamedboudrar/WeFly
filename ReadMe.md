@@ -46,8 +46,11 @@ You should now see the main landing page of the Private Jets Reservation System.
 You can start browsing the available jets, making reservations, and managing your bookings.
 Screenshots
 Below are some screenshots of the project in action. You can add your own screenshots here.
+### Screenshot 1
+<img width="1440" alt="Screenshot 2024-11-16 at 3 48 43 PM" src="https://github.com/user-attachments/assets/ccf35f10-8da4-4db2-ada9-2f2e9e280022">
 
-Screenshot 1
 
-Screenshot 2
+### Screenshot 2
+<img width="1440" alt="Screenshot 2024-11-16 at 3 48 57 PM" src="https://github.com/user-attachments/assets/9f6f7280-bea3-4368-a49d-bf65d451bfd2">
+
 
