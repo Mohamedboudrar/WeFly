@@ -49,8 +49,19 @@ Below are some screenshots of the project in action. You can add your own screen
 ### Screenshot 1
 <img width="1440" alt="Screenshot 2024-11-16 at 3 48 43 PM" src="https://github.com/user-attachments/assets/ccf35f10-8da4-4db2-ada9-2f2e9e280022">
 
-
 ### Screenshot 2
 <img width="1440" alt="Screenshot 2024-11-16 at 3 48 57 PM" src="https://github.com/user-attachments/assets/9f6f7280-bea3-4368-a49d-bf65d451bfd2">
+
+## Admin 
+<img width="1440" alt="Screenshot 2024-11-16 at 3 56 11 PM" src="https://github.com/user-attachments/assets/a331b8d9-be1e-465d-bde2-514c7fdd699d">
+
+### Admin login details
+- **Username**: admin
+
+- **Password**: Test@123
+
+### Admin dashboard
+<img width="1440" alt="Screenshot 2024-11-16 at 3 55 50 PM" src="https://github.com/user-attachments/assets/31cccba8-21ec-4a86-b8d8-6ba50df47ca8">
+
 
 
